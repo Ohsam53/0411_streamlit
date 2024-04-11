@@ -17,7 +17,7 @@ def main():
         if open_apikey:
             openai.api_key  = open_apikey
         st.markdown('---')
-    st.header(":green[요약프로그램]", divider='green')
+    st.header(":green[요약프로그램]")
     st.markdown('---')
     text = st.text_area(":rainbow[마 형님이 다 요약해줄게]")
     if st.button("요약🙌"):
