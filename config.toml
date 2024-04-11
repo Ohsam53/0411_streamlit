@@ -1,0 +1,7 @@
+# config.toml 파일
+[theme]
+primaryColor="#96efe4"
+backgroundColor="#7fffd4"
+secondaryBackgroundColor="#FFFFFF"
+textColor="#065535"
+font="sans serif"
